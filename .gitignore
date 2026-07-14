@@ -1,0 +1,15 @@
+# Arquivos de configuração com credenciais reais
+config.py
+
+# Arquivos gerados em execução
+logs/
+__pycache__/
+*.pyc
+
+# Relatórios Excel gerados pelo robô
+Serv_*.xlsx
+~$*.xlsx
+
+# Arquivos temporários do Windows
+Thumbs.db
+desktop.ini
